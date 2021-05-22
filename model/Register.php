@@ -3,7 +3,6 @@ require_once 'Database.php';
 
 class Register extends Database
 {
-
     public function __construct()
     {
     }

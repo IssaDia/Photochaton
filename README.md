@@ -1,7 +1,5 @@
 Examen PHP POO (Photochaton)
 
-Application to check on our CO2 footprint depending on your conveyance
-
 To Set Up the project
 
 1/ clone the project
